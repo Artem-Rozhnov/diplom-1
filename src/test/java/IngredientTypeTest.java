@@ -7,7 +7,6 @@ import praktikum.IngredientType;
 import java.util.Arrays;
 import java.util.Collection;
 
-import static junit.framework.TestCase.assertEquals;
 
 @RunWith(Parameterized.class)
 public class IngredientTypeTest {
